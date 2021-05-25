@@ -14,6 +14,7 @@ Extra Functions for BiDirectional LinkedList 🔂
 
 # More Info 
 
+`double_ll.py` is the base file with both the basic functions and the the bidirectional linkedlist created.
 
 All Functions take an average time complexity of O(N).
 
